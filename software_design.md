@@ -1,13 +1,12 @@
 # Software Design Methodologies
 
-1.
-
+1. 
 - Cohesion - describes how well the functions or classes within the program relate to each other and work together to perform a single task.
 - Coupling - describes the links between different sections of the program and how much dependency there is on other parts of the code.
 
 Good structured design has high cohesion and low coupling.
 
-2.Top down looks at the system as a whole and identifies systems which can then be broken down into sub-systems until the smallest level is reached. This approach is better when specifications are unkown and the system has to be made from scratch.
+2. Top down looks at the system as a whole and identifies systems which can then be broken down into sub-systems until the smallest level is reached. This approach is better when specifications are unkown and the system has to be made from scratch.
 Bottom up looks at the smallest components of the system and creates systems/classes to encapsulate them until a hierarchy is formed, which is useful when the details of the system are known.
 Function oriented design is bottom-up, because the individual functions are coded first which are the smaller building blocks of the whole program.
 
