@@ -25,6 +25,7 @@ A class diagram would be most useful in OOD because it shows how the classes con
 
 
 5.
+The strategy pattern is a way to arrange a group of algorthms, in the form of classes or functions, and for them to have the ability to be called interchangeably when the program is run.
 OOD incorporates abstract classes and interfaces to make the code more flexible.
 FOD can involve higher order functions in which other functions can be passed through as parameters.
 
