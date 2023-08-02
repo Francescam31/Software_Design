@@ -13,7 +13,7 @@ Function oriented design is bottom-up, because the individual functions are code
 
 
 3. 
-A class diagram would be most useful in OOD because it shows how the classes connect with each other and represent inheritance, abstract classes and interfaces.
+A class diagram would be most useful in OOD because it shows how the classes interact with each other and represent inheritance, abstract classes and interfaces.
 
 
 4. 
