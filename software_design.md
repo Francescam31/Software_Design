@@ -6,12 +6,14 @@
 
 Good structured design has high cohesion and low coupling.
 
-2. Top down looks at the system as a whole and identifies systems which can then be broken down into sub-systems until the smallest level is reached. This approach is better when specifications are unkown and the system has to be made from scratch.
+2. 
+Top down looks at the system as a whole and identifies systems which can then be broken down into sub-systems until the smallest level is reached. This approach is better when specifications are unkown and the system has to be made from scratch.
 Bottom up looks at the smallest components of the system and creates systems/classes to encapsulate them until a hierarchy is formed, which is useful when the details of the system are known.
 Function oriented design is bottom-up, because the individual functions are coded first which are the smaller building blocks of the whole program.
 
 
-3. A class diagram would be most useful in OOD because it shows how the classes connect with each other and represent inheritance, abstract classes and interfaces.
+3. 
+A class diagram would be most useful in OOD because it shows how the classes connect with each other and represent inheritance, abstract classes and interfaces.
 
 
 4. 
@@ -23,10 +25,11 @@ Function oriented design is bottom-up, because the individual functions are code
 
 
 5.
-
+OOD incorporates abstract classes and interfaces to make the code more flexible.
+FOD can involve higher order functions in which other functions can be passed through as parameters.
 
 6.
-- I would use OOD because you can create generic superclasses to cover the general transactions and payment details and methods - and then create specific subclasses later for specific items. This is because in OOD, the program can be extended without having to modify the core classes that run the system and then these extended classes can be customisable to the specific purpose of the program.
+I would use OOD because you can create generic superclasses to cover the general transactions and payment details and methods - and then create specific subclasses later for specific items. This is because in OOD, the program can be extended without having to modify the core classes that run the system and then these extended classes can be customisable to the specific purpose of the program.
 
 
 
