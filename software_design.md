@@ -26,6 +26,7 @@ Function oriented design is bottom-up, because the individual functions are code
 
 
 6.
+- I would use OOD because you can create generic superclasses to cover the general transactions and payment details and methods - and then create specific subclasses later for specific items. This is because in OOD, the program can be extended without having to modify the core classes that run the system and then these extended classes can be customisable to the specific purpose of the program.
 
 
 
